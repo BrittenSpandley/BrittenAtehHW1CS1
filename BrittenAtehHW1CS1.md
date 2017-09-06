@@ -20,3 +20,12 @@ Author: BrittenSpandley <spandleyb@student.swosu.edu>
 Date:   Wed Sep 6 12:29:29 2017 -0500
     first commit
 ```
+
+## Item 2: Your second story, when you learned to use branches. 
+I want you to submit your story, as well as your git log.
+
+### Story:
+
+Britten: Man, there's a lot of Subways in New York. How do they eat that many sandwiches?
+
+### Git log:
